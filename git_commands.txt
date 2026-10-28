@@ -6,5 +6,5 @@
  git restore filename                                             =   to restore deleted file
  git remote -v                                                    =   to check the remote repo
  git remote set-url origin https://PAT@github.com/usernane/repo   =   to set remote access to that folder so we can push file or folder to that repo
- git push origin master                                           =   to push the files and folder to repo
- git
+ git push origin master                                           =   to push the files and folder to github from local
+ git pull origin master                                           =   to pull the files and folder from github to local
