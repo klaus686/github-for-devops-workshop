@@ -11,4 +11,6 @@
  git branch                                                       =   to check all branches of a repository
  git branch "newbranchname"                                       =   to create a new branch
  git switch branchname                                            =   to switch to a branch
+ git log                                                          =   to check the commits with all details
+ git log --oneline                                                =   to check commits with commit message only
  
