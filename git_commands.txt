@@ -1,6 +1,10 @@
- git init
- git status
- git rm --cached filename
- git add
- git commit -m "commit message"
- git restore filename
+ git init                                                         =   to setup VCS in a folder
+ git status                                                       =   to check the staus of git 
+ git rm --cached filename                                         =   to remove file from stage
+ git add                                                          =   to add file on stage
+ git commit -m "commit message"                                   =   to add file in VCS
+ git restore filename                                             =   to restore deleted file
+ git remote -v                                                    =   to check the remote repo
+ git remote set-url origin https://PAT@github.com/usernane/repo   =   to set remote access to that folder so we can push file or folder to that repo
+ git push origin master                                           =   to push the files and folder to repo
+ 
