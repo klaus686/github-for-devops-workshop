@@ -8,3 +8,7 @@
  git remote set-url origin https://PAT@github.com/usernane/repo   =   to set remote access to that folder so we can push file or folder to that repo
  git push origin master                                           =   to push the files and folder to github from local
  git pull origin master                                           =   to pull the files and folder from github to local
+ git branch                                                       =   to check all branches of a repository
+ git branch "newbranchname"                                       =   to create a new branch
+ git switch branchname                                            =   to switch to a branch
+ 
