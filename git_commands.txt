@@ -13,4 +13,4 @@
  git switch branchname                                            =   to switch to a branch
  git log                                                          =   to check the commits with all details
  git log --oneline                                                =   to check commits with commit message only
- 
+ git checkout branchname                                          =   also switch branch
